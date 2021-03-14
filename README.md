@@ -7,8 +7,8 @@
 
 3- pkg install python 
 
-4-git clone https://github.com/darkzoneIQ/dy/blob/main/d.py
+4-git clone https://github.com/darkzoneIQ/dy
 
-5-cd d.py
+5-cd dy
 
 6- python d.py 
